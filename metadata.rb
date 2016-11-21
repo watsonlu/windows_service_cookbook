@@ -1,0 +1,7 @@
+name 'windows_service'
+maintainer 'Luke Watson'
+maintainer_email 'luwatson90@gmail.com'
+license 'all_rights'
+version '0.2.0'
+source_url 'https://github.com/watsonlu/windows_service_cookbook'
+issues_url 'https://github.com/watsonlu/windows_service_cookbook/issues'
